@@ -1,3 +1,21 @@
+## Projeto de Star Wars Planets Search
+
+Esta aplicação é uma lista de planetas do universo de Star Wars com a opção de filtrar os planetas. Este projeto foi construído utilizando React, Context API, React Hooks e a API de [planetas de Star Wars](https://swapi-trybe.herokuapp.com/).
+
+## Como usar
+
+Faça o clone do projeto:
+- `git clone https://github.com/VitorLimaRios/sd-08-project-starwars-planets-search.git`.
+
+Após clonar o projeto faça a instalação das dependencias através do npm:
+- `npm install`.
+
+Inicie o projeto:
+- `npm start`.
+
+---
+---
+
 ## Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
